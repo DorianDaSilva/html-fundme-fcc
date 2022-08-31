@@ -90,9 +90,3 @@ In the output of the above command, take one of the private key accounts and [im
 Additionally, add your localhost with chainid 31337 to your metamask.
 
 5. Reserve the front end with `yarn http-server`, input an amount in the text box, and hit `fund` button after connecting
-
-# Thank you!
-
-If you appreciated this, feel free to follow me or donate!
-
-ETH/Polygon/Avalanche/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
